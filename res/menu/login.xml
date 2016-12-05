@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        
+	<!-- 
+     <item
+        android:id="@+id/menu_paciente"
+        android:orderInCategory="100"
+        android:showAsAction="never"               
+        android:title="@string/title_activity_paciente"/>
+     
+      <item
+        android:id="@+id/menu_agente"
+        android:orderInCategory="100"
+        android:showAsAction="never"               
+        android:title="@string/title_activity_agente"/>
+      
+    <item
+        android:id="@+id/menu_medico"
+        android:orderInCategory="100"
+        android:showAsAction="never"               
+        android:title="@string/title_activity_medico"/>
+    
+    <item
+        android:id="@+id/menu_coletar_dados"
+        android:orderInCategory="100"
+        android:showAsAction="never"               
+        android:title="@string/title_activity_coletar_dados"/>
+    
+    <item
+        android:id="@+id/menu_principal"
+        android:orderInCategory="100"
+        android:showAsAction="never"               
+        android:title="@string/title_activity_menu_principal"/>
+    
+     <item
+        android:id="@+id/menu_diagnosticar"
+        android:orderInCategory="100"
+        android:showAsAction="never"               
+        android:title="@string/title_activity_diagnosticar"/>
+    
+    <item
+        android:id="@+id/app_principal"
+        android:orderInCategory="100"
+        android:showAsAction="always"               
+        android:title="App Principal"/>
+ 	-->
+</menu>

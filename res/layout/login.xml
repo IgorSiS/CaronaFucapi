@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".LoginFragment" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:background="@color/color_light"
+    >
+    
+      
+     
+     <ImageView 
+        android:id="@+id/img_logo"
+        android:layout_width="180dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+        android:contentDescription="@string/app_logo"
+        android:src="@drawable/logo_app"/>
+        
+    
+    <EditText 
+        android:id="@+id/edt_login"
+        android:layout_width="@dimen/login_Editext_width"
+        android:layout_height="@dimen/senha_Editext_heigth"
+        android:hint="@string/login"
+        android:background="#ecfbfb"
+        android:layout_below="@id/img_logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="5dp"
+        android:inputType="text"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/fonte_bts_texts"/>
+    
+    <EditText 
+        android:id="@+id/edt_senha"
+        android:layout_width="@dimen/login_Editext_width"
+        android:layout_height="@dimen/senha_Editext_heigth"
+        android:hint="@string/senha"
+        android:background="#ecfbfb"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/edt_login"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="5dp"
+        android:textColor="@android:color/black"
+        android:inputType="textPassword"
+        
+        android:textSize="@dimen/fonte_bts_texts"/>
+
+    <Button
+        android:id="@+id/btValidar"
+        android:layout_width="85dp"
+        android:layout_height="@dimen/senha_Editext_heigth"
+        android:layout_alignRight="@id/edt_login"
+        android:background="#69dbdc"
+        android:textStyle="bold"
+        android:text="@string/entrar"
+        android:layout_below="@id/edt_senha"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/fonte_bts_texts"
+        />
+    
+</RelativeLayout>

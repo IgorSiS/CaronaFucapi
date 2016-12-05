@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_Editext_width">159dp</dimen>
+    <dimen name="senha_Editext_heigth">35dp</dimen>
+    <dimen name="fonte_bts_texts">14sp</dimen>
+    <dimen name="tamanho_da_fonte_titulo">18sp</dimen>
+    <dimen name="barra_preta_textview">50dp</dimen>
+    <dimen name="margin_left">25dp</dimen>
+    <dimen name="margin_top">30dp</dimen>
+    <dimen name="logot_minitori">24sp</dimen>
+    <dimen name="heigth_editext">55dp</dimen>
+    <dimen name="fontes_para_textos">16sp</dimen>
+    <dimen name="margem_editext">50dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="cadastrarpaciente">30sp</dimen>
+    <dimen name="bt_width">110dp</dimen>
+    <dimen name="bt_heigth">45dp</dimen>
+    <dimen name="barraPreta_heigth">75dp</dimen>
+ 	<dimen name="bthistorico_largura">300dp</dimen>
+    <dimen name="bthistorico_altura">50dp</dimen>
+    <dimen name="btdata_largura">120dp</dimen>
+ 	<dimen name="magem_bthistorico">10dp</dimen>
+	
+ 	<dimen name="action_button_min_width">56dp</dimen>
+ 		
+</resources>

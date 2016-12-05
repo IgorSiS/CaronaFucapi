@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:gravity="center"
+>
+	<br.fucapi.proj_carona.activity.Dashboard
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+	>
+		<Button
+			android:id="@+id/btAgente"
+			android:text="@string/menu_amigos"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:drawableTop="@drawable/ic_man"
+			android:drawablePadding="10dp"
+			android:background="@null"
+			android:textStyle="bold"
+		/>
+		<Button
+			android:id="@+id/btPaciente"
+			android:text="@string/menu_usuario"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:drawableTop="@drawable/ic_man"
+			android:drawablePadding="10dp"
+			android:background="@null"
+			android:textStyle="bold"
+		/>
+		<Button
+			android:id="@+id/btMedico"
+			android:text="@string/menu_oferecer_carona"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:drawableTop="@drawable/ic_man"
+			android:drawablePadding="10dp"
+			android:background="@null"
+			android:textStyle="bold"
+		/>
+		
+	</br.fucapi.proj_carona.activity.Dashboard>
+</LinearLayout>

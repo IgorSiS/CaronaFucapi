@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Carona Fucapi</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Strings para itens de menu -->
+    <string name="novo">Novo Cadastro</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="DATE_FORMAT_APLICATION">dd/MM/yyyy</string>
+    <string name="DATE_FORMAT_DATABASE">yyyy-MM-dd</string>
+    <string name="DATE_LONG_FORMAT_APLICATION">d \'de\' MMMM \'de\' yyyy</string>
+    <string name="TIME_FORMAT_APLICATION">HH:mm</string>
+</resources>

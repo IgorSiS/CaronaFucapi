@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	    	
+    <string name="app_logo">AppLogo</string>
+        
+    <!-- login -->
+    <string name="login">Login</string>
+    <string name="senha">senha</string>
+    <string name="entrar">entrar</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_photo">Camera Exemplo</string>
+    
+     <!-- CRUD Paciente -->
+    <string name="title_activity_usuario_dados">Dados do Usuario</string>
+    <string name="title_activity_usuario">Lista de Amigos</string>
+    <string name="cadastrar_usuario">Novo Usuario</string>
+    
+    <!-- Informacoes pessoais que todos usuarios irao ter -->
+    <string name="nome">Nome</string>
+    <string name="sexo">Sexo</string>	
+	<string-array name="sexo_arrays">
+        <item>@string/masculino</item>
+        <item>@string/feminino</item>
+    </string-array>
+	<string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+   
+    <string name="cpf">Cpf</string>
+    <string name="registro_academico">Registro Academico</string>
+    <string name="nome_curso">Nome do Curso</string>
+    <string name="turno">Turno</string>
+    <string name="celular">Celular</string>    
+    <string name="contato_emergencia">Contato de Emergencia</string>
+    <string name="endereco">Endereço</string>
+    <string name="numero">Número</string>    
+    <string name="cep">Cep</string>        			       
+    <string name="foto">Foto</string>
+    
+    <string name="salvar">Salvar</string>
+    
+    
+    <string name="lista_amigos">Listar Amigos</string>
+     <string name="usuario_prompt">Selecione um Usuario</string>
+    
+	
+    
+        
+    	
+	<!-- Mascara de Campos -->
+    <string name="mask_date">dd/mm/yyyy</string>
+    <string name="mask_cep">#####-###</string>
+    <string name="mask_telefone">(##)####-####</string>
+    
+    	         
+    
+    <string name="hipertenso">Hipertensão</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="tipo1">Tipo 1</string>
+    <string name="tipo2">Tipo 2</string>    
+    <string name="sus">Adicione o número do SUS</string>
+    <string name="nome_mae">Nome da Mãe</string>    
+    
+    
+    
+    
+    <string name="cadastrar_agente">Novo agente</string>
+    
+    
+    <!-- CRUD Medico -->
+    <string name="title_activity_medico">Lista de Médicos</string>
+    <string name="title_activity_medico_dados">Dados do Médico</string>
+    <!-- Informacoes do Medico -->    
+    <string name="crm">CRM</string>
+        
+    <!-- CRUD Agente -->
+    <string name="title_activity_agente">Lista de Agentes</string>
+    <string name="title_activity_agentes_dados">Dados do Agente</string>
+	<!-- Informacoes do Agente -->    
+	<string name="matricula">Matrícula</string>
+    
+
+
+    <!-- Menu de contexto -->
+    <string name="deletar">Deletar</string>
+    <string name="cadastrar_medico">Novo Médico</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="title_activity_coletar_dados">Coletar Dados</string>
+    
+    <string name="ast">*</string>
+
+    <!-- coletar dados -->
+    <string name="coletar_dados">Coleta de dados</string>
+    <string name="pa">PA</string>
+    <string name="sis">BAIXA</string>
+    <string name="sistole">ALTA</string>
+    <string name="glicose">Glicose</string>
+    <string name="jejum">Jejum</string>
+    <string name="pos_pandrial">Pós-pandrial</string>
+    <string name="data_coleta">15 de Fevereiro de 2014</string>
+    <string name="title_activity_diagnosticar_dados">Diagnosticar</string>
+    <string name="historico_coletar">Historico Coletar</string>
+    <string name="dataColeta">Data/Hora</string>
+
+    <!-- historico diagnostico -->
+    <string name="historico_diagnostico">Histórico de diagnóstico</string>
+    <string name="lorem_ipsum">Lorem ipsum loren</string>
+    <string name="data">23/02/2014</string>
+    
+
+    <!-- diagnosticar -->
+    <string name="diagnosticar">Diagnósticar</string>
+    <string name="descrever">Descrever diagnóstico:</string>
+    <string name="title_activity_historico">Historico de Coleta</string>
+    <string name="editar">Editar</string>
+    <string name="sexo_prompt">Selecione um sexo</string>
+    <string name="title_activity_diagnosticar">Historico Diagnostico</string>
+    <string name="data_diagnostico">15 de Fevereiro de 2014</string>
+    <string name="descricao">Descrição</string>
+
+    <string name="title_activity_ubs">Lista de UBS</string>
+    <string name="title_activity_ubs_dados">Dados de UBS</string>
+
+    <string name="title_activity_menu_principal">Menu Principal</string>
+    
+    <!-- Menu principal -->
+    <string name="menu_usuario">Dados Pessoais</string>    
+    <string name="menu_buscar_amigos">Encontrar Amigos</string>  
+    <string name="menu_amigos">Amigos</string>
+    
+    <string name="menu_oferecer_carona">Oferecer Carona</string>
+    <string name="menu_buscar_carona">Buscar Caronas</string>
+    
+    <string name="menu_login">Trocar Usuario</string>
+    
+    
+    
+    <string name="erro_conexao_indisponivel">Conexão indisponível, por favor ative sua rede móvel ou Wi-Fi.</string>
+	<string name="aplicacao">Aplicação</string>
+	<string name="licenca_uso">Licença de Uso</string>
+    <!-- novas strings -->
+
+    <string name="splashscreen_text">Carregando aplicação</string>
+    <string name="splashscreen_label">Carregando#8230;</string>
+    <string name="preferences_label">Preferências</string>
+    <string name="menuitem_refresh">Refresh</string>
+    <string name="menuitem_preferences">Settings</string>
+    <string name="menuitem_quit">Sair</string>
+    <string name="confirm_quit">Você tem certeza que deseja sair da aplicação?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="error_retrievingdata">Error retrieving data</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+
+    <string name="eula_title">Contrato de Licença de Usuário Final</string>
+    <string name="eula_accept">Aceitar</string>
+    <string name="eula_refuse">Recusar</string>
+    <string name="eula_close">Fechar</string>
+    <string name="title_activity_your_app_main">YourAppMainActivity</string>
+    <string name="title_activity_coletar">Lista Coletar Dados</string>
+    <string name="cadastrar_coletarDados">Nova Coleta</string>
+    <string name="cadastrar_diagnostico">Novo Diagnostico</string>
+	    
+    <string name="camera_add_foto">Adicionar Foto</string>
+    <string name="camera_foto">Tirar Foto</string>
+    <string name="camera_galeria">Escolher da Galeria de Fotos</string>
+    <string name="camera_cancelar">Cancelar</string>
+    
+    <!-- strings validacao -->
+    <string name="erro_campo_requerido">Este campo é Obrigatório</string>
+    <string name="erro_data_invalida">Data Inválida</string>
+    
+</resources>
