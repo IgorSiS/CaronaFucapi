@@ -30,7 +30,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.ListView;
 
-public class UsuarioFragment extends Fragment {
+public class CaronaFragment extends Fragment {
 
 	//Definicao das constantes
 	private final String TAG = "CADASTRO_USUARIO";

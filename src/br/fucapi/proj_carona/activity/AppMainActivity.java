@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import br.fucapi.proj_carona.R;
-import br.fucapi.proj_carona.activity.paciente.UsuarioDadosActivity;
+import br.fucapi.proj_carona.activity.usuario.UsuarioDadosActivity;
 import br.fucapi.proj_carona.controller.NavigationController;
 import br.fucapi.proj_carona.eula.Eula;
 import br.fucapi.proj_carona.fragment.LoginFragment;

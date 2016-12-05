@@ -1,4 +1,4 @@
-package br.fucapi.proj_carona.activity.paciente;
+package br.fucapi.proj_carona.activity.usuario;
 
 import br.fucapi.proj_carona.R;
 import br.fucapi.proj_carona.model.bean.Usuario;

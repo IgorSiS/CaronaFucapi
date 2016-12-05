@@ -1,4 +1,4 @@
-package br.fucapi.proj_carona.activity.paciente;
+package br.fucapi.proj_carona.activity.usuario;
 
 import java.util.List;
 import br.fucapi.proj_carona.R;

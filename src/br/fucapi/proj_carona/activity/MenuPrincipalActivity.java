@@ -1,7 +1,7 @@
 package br.fucapi.proj_carona.activity;
 
 import br.fucapi.proj_carona.R;
-import br.fucapi.proj_carona.activity.paciente.UsuarioActivity;
+import br.fucapi.proj_carona.activity.usuario.UsuarioActivity;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
